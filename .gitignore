@@ -1,0 +1,6 @@
+/dist/
+*.class
+*.dll
+nbproject/
+build/
+/.idea/
